@@ -6,7 +6,7 @@ work in french, some have a second possible letter.
 
 ## To download the word list
 
-There are a bunch you can choose from;
+There are a bunch you can choose from
 
 ### DWYL List
 
@@ -52,5 +52,5 @@ python3 -m pip install .
 
 Run the integration tests:
 ```bash
-python3 -m pytest tests/integraion.py
+python3 -m pytest -s tests/
 ```
