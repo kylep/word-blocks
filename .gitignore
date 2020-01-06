@@ -1,0 +1,6 @@
+*.txt
+env/
+old/
+**/*.pyc
+*.egg-info/
+**/*.swp
